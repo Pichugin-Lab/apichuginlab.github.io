@@ -1,0 +1,72 @@
+---
+title: "About"
+---
+
+## Principal Investigator
+
+**A. Pichugin, PhD**
+
+*Department of [Your Department], [Your Institution]*
+
+I am a researcher studying evolutionary dynamics, cooperation, and the mathematical principles underlying biological complexity. My work draws on tools from dynamical systems, probability theory, and computer simulation to address questions about how life evolves and organizes at multiple scales.
+
+---
+
+## Research Interests
+
+- Mathematical modeling of evolutionary processes
+- Multilevel selection and major evolutionary transitions
+- Cooperation and the evolution of social behavior
+- Population genetics and eco-evolutionary dynamics
+- Computational approaches to theoretical biology
+
+---
+
+## Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| PhD in [Field] | [Institution] | [Year] |
+| MSc in [Field] | [Institution] | [Year] |
+| BSc in [Field] | [Institution] | [Year] |
+
+---
+
+## Current Lab Members
+
+We are building an interdisciplinary team. Prospective members are encouraged to reach out.
+
+### Graduate Students
+
+*Positions available — see below*
+
+### Postdoctoral Researchers
+
+*Positions available — see below*
+
+---
+
+## Open Positions
+
+We are currently recruiting:
+
+- **PhD students** with backgrounds in mathematics, physics, computer science, or biology.
+- **Postdoctoral researchers** with experience in evolutionary theory or computational biology.
+
+To apply, please send a CV, a brief statement of research interests, and contact information for two references to the email address below.
+
+---
+
+## Contact
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+**Email:** [your.email@institution.edu](mailto:your.email@institution.edu)
+
+**GitHub:** [Pichugin-Lab](https://github.com/Pichugin-Lab)
+
+**Office:** [Building, Room, Address]
+:::
+
+:::

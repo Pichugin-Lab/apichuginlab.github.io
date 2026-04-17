@@ -1,0 +1,67 @@
+---
+title: "Resources"
+---
+
+A curated collection of tools, tutorials, datasets, and links useful for research in evolutionary theory, mathematical biology, and computational modeling.
+
+---
+
+## Lab Code & Software
+
+All lab software is hosted in the [Pichugin-Lab GitHub organization](https://github.com/Pichugin-Lab). Individual repositories will be linked here as they are released.
+
+| Repository | Description | Language |
+|------------|-------------|----------|
+| *(coming soon)* | Multilevel selection simulation framework | Python / Julia |
+| *(coming soon)* | Eco-evolutionary ODE toolkit | R / Python |
+
+---
+
+## Recommended Reading
+
+### Textbooks
+
+- **Nowak, M.A.** *Evolutionary Dynamics.* Harvard University Press, 2006.
+- **Rice, S.H.** *Evolutionary Theory: Mathematical and Conceptual Foundations.* Sinauer Associates, 2004.
+- **Hofbauer, J. & Sigmund, K.** *Evolutionary Games and Population Dynamics.* Cambridge University Press, 1998.
+- **Ewens, W.J.** *Mathematical Population Genetics.* Springer, 2004.
+
+### Review Articles
+
+- Hamilton, W.D. (1964). The genetical evolution of social behaviour. *Journal of Theoretical Biology*, 7(1), 1–16.
+- Price, G.R. (1970). Selection and covariance. *Nature*, 227, 520–521.
+- Maynard Smith, J. & Szathmáry, E. (1995). *The Major Transitions in Evolution.* Freeman.
+
+---
+
+## Online Tools & Databases
+
+- [bioRxiv](https://www.biorxiv.org) — preprint server for the life sciences
+- [Google Scholar](https://scholar.google.com) — academic literature search
+- [ORCID](https://orcid.org) — researcher identifiers
+- [Zenodo](https://zenodo.org) — open-access data and code repository
+- [GitHub](https://github.com/Pichugin-Lab) — Pichugin Lab code repositories
+
+---
+
+## Tutorials & Guides
+
+### Getting Started with Quarto
+
+This website is built with [Quarto](https://quarto.org). Quarto is an open-source publishing system that supports Python, R, Julia, and Observable JS.
+
+- [Quarto documentation](https://quarto.org/docs/guide/)
+- [Creating a website with Quarto](https://quarto.org/docs/websites/)
+
+### Scientific Computing
+
+- [NumPy](https://numpy.org/doc/) — numerical computing in Python
+- [SciPy](https://docs.scipy.org) — scientific computing in Python
+- [Julia documentation](https://docs.julialang.org) — high-performance scientific computing
+- [R for Data Science](https://r4ds.hadley.nz) — data analysis and visualization in R
+
+---
+
+## Funding & Acknowledgements
+
+We gratefully acknowledge support from [Funding Agencies / Grants]. The views expressed on this site are those of the lab and do not necessarily reflect the position of any funding agency.

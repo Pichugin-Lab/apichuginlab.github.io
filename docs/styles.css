@@ -1,0 +1,56 @@
+/* Pichugin Lab — custom styles */
+
+/* ── Navbar ── */
+.navbar {
+  border-bottom: 2px solid var(--bs-primary);
+}
+
+/* ── Hero / landing section ── */
+.hero {
+  padding: 3rem 0 2.5rem;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.hero .lead {
+  font-size: 1.25rem;
+  color: #555;
+}
+
+/* ── Cards ── */
+.card {
+  transition: box-shadow 0.2s ease;
+}
+
+.card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+/* ── Section headings ── */
+h2.section-title {
+  border-bottom: 2px solid var(--bs-primary);
+  padding-bottom: 0.4rem;
+  margin-bottom: 1.5rem;
+}
+
+/* ── Publication list ── */
+.publication-entry {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.publication-entry:last-child {
+  border-bottom: none;
+}
+
+/* ── Resource badges ── */
+.badge-resource {
+  font-size: 0.75rem;
+  margin-right: 4px;
+}

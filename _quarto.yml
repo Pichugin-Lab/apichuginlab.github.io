@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Pichugin Lab"
+  description: "Laboratory of A. Pichugin"
+  favicon: images/favicon.ico
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: resources.qmd
+        text: Resources
+    right:
+      - icon: github
+        href: https://github.com/Pichugin-Lab
+        aria-label: GitHub
+  page-footer:
+    left: "© 2025 Pichugin Lab"
+    right:
+      - icon: github
+        href: https://github.com/Pichugin-Lab
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true

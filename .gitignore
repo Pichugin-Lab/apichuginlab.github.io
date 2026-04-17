@@ -1,0 +1,18 @@
+# Quarto internal cache (not the rendered docs/)
+/.quarto/
+
+# R artifacts
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Julia artifacts
+*.jl.cov
+*.jl.mem
+Manifest.toml

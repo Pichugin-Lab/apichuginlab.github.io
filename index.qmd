@@ -5,49 +5,40 @@ toc: false
 ---
 
 ::: {.hero}
+
 # Welcome to the Pichugin Lab
 
-**Understanding evolutionary dynamics through mathematical modeling and computation**
+**Understanding the evolutionary dynamics of Malaria**
 
-[Learn More About Us](about.qmd){.btn .btn-primary .btn-lg .me-2}
-[View Publications](publications.qmd){.btn .btn-outline-secondary .btn-lg}
+[View Publications](publications.qmd){.btn .btn-primary .btn-lg .me-2}
+[Lab Resources](resources.qmd){.btn .btn-outline-secondary .btn-lg}
+
 :::
-
----
 
 ## Research Overview
 
-Our laboratory investigates the evolutionary and ecological processes that shape biological diversity. We combine theoretical frameworks with computational approaches to develop models that explain population dynamics, cooperation, and the emergence of complex traits.
+Our laboratory investigates the evolutionary and ecological processes that shape Malaria antigenic and genomic diversity. 
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
-### Evolutionary Theory
+
+
+### Plasmodium falciparum 
 We develop and analyze mathematical models of natural selection, genetic drift, and eco-evolutionary dynamics.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### Computational Modeling
+
+### Phylogenetics 
 We build simulation frameworks to explore the emergence of cooperation, altruism, and social behavior.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
+
 ### Open Science
 We make our code, data, and analyses publicly available to support reproducible research. Explore our [GitHub organization](https://github.com/Pichugin-Lab).
 :::
 
 :::
 
----
-
-## Latest News
-
-- **2025** — New preprint on multilevel selection dynamics posted to bioRxiv.
-- **2024** — Lab GitHub organization launched. Repositories for ongoing projects are now publicly accessible.
-- **2024** — New resources and tutorial materials added to the [Resources](resources.qmd) page.
-
----
-
-## Join the Lab
-
-We welcome motivated students and postdocs interested in evolutionary theory, mathematical biology, and computational modeling. See the [About](about.qmd) page for contact information and open positions.

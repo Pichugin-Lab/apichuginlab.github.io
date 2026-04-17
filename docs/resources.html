@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.6.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,12 +36,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d166b450ba5a8e9f7a0ab969bf6592c1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6b43ec1ba5dce2156eb7570b5c48d693.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-d7fc1a17ae48a5821e6067694a65cfa2.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-c473d3839dde5e63c4851e378c96097d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-d1e6b0c1635ace7e0b45666e6138108b.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -136,6 +136,10 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#lab-code-software" id="toc-lab-code-software" class="nav-link active" data-scroll-target="#lab-code-software">Lab Code &amp; Software</a></li>
+  <li><a href="#external-resources" id="toc-external-resources" class="nav-link" data-scroll-target="#external-resources">External Resources</a>
+  <ul class="collapse">
+  <li><a href="#protocols" id="toc-protocols" class="nav-link" data-scroll-target="#protocols">Protocols</a></li>
+  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a></li>
   <li><a href="#recommended-reading" id="toc-recommended-reading" class="nav-link" data-scroll-target="#recommended-reading">Recommended Reading</a>
   <ul class="collapse">
   <li><a href="#textbooks" id="toc-textbooks" class="nav-link" data-scroll-target="#textbooks">Textbooks</a></li>
@@ -147,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#getting-started-with-quarto" id="toc-getting-started-with-quarto" class="nav-link" data-scroll-target="#getting-started-with-quarto">Getting Started with Quarto</a></li>
   <li><a href="#scientific-computing" id="toc-scientific-computing" class="nav-link" data-scroll-target="#scientific-computing">Scientific Computing</a></li>
   </ul></li>
-  <li><a href="#funding-acknowledgements" id="toc-funding-acknowledgements" class="nav-link" data-scroll-target="#funding-acknowledgements">Funding &amp; Acknowledgements</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -179,51 +183,84 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="lab-code-software">Lab Code &amp; Software</h2>
 <p>All lab software is hosted in the <a href="https://github.com/Pichugin-Lab">Pichugin-Lab GitHub organization</a>. Individual repositories will be linked here as they are released.</p>
 <table class="caption-top table">
-<colgroup>
-<col style="width: 34%">
-<col style="width: 37%">
-<col style="width: 28%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Repository</th>
 <th>Description</th>
 <th>Language</th>
+<th>Tutorial</th>
+<th>Website</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><em>(coming soon)</em></td>
-<td>Multilevel selection simulation framework</td>
-<td>Python / Julia</td>
+<td><a href="https://github.com/Pichugin-Lab/pf_microsattelite">P. falciparum microsattelite analysis</a></td>
+<td>Utilizing <a href="https://doi.org/10.1017/s0031182099004552">Anderson et al., 1999</a></td>
+<td>R/Python</td>
+<td><strong>Coming Soon</strong></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><em>(coming soon)</em></td>
-<td>Eco-evolutionary ODE toolkit</td>
+<td><a href="https://github.com/Pichugin-Lab/pf_targeted_sequencing">P. falciparum antigen sequencing</a></td>
+<td></td>
 <td>R / Python</td>
+<td><strong>Coming Soon</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><a href="https://github.com/Pichugin-Lab/chminextstrain">P. falciparum Nextstrain</a></td>
+<td>pfcsp and pfama1 are currently supported</td>
+<td>Python</td>
+<td><strong>Coming Soon</strong></td>
+<td><a href="https://nextstrain.org/groups/PichuginLab-Private/sydney/chmi/csp-full">csp-full</a> (Login Required)</td>
 </tr>
 </tbody>
 </table>
 <hr>
 </section>
+<section id="external-resources" class="level1">
+<h1>External Resources</h1>
+<ul>
+<li><p><a href="https://apps.malariagen.net/apps/pf7/">MALGEN7</a></p></li>
+<li><p><a href="https://github.com/nomads-community">NOMADS Community · GitHub</a></p>
+<ul>
+<li><a href="https://jasonahendry.github.io/nomadic/">Nomadic</a></li>
+<li><a href="https://github.com/JasonAHendry/multiply">GitHub - JasonAHendry/multiply: Multiplex PCR design, in silico · GitHub</a></li>
+<li>Bioinformatic trainings [GitHub - nomads-community/bioinformatics: Bioinformatic</li>
+<li>Resources · GitHub](https://github.com/nomads-community/bioinformatics)</li>
+<li><a href="https://github.com/broadinstitute/malaria">broadinstitute/malaria - illumina amplicon sequencing pipeline</a>
+<ul>
+<li>Illumina Amplicon Workspace</li>
+</ul></li>
+<li><a href="https://github.com/EPPIcenter/mad4hatter">mad4hatter - nanopore amplicon sequencing pipeline</a>
+<ul>
+<li>Publication: <a href="https://www.nature.com/articles/s41598-025-94716-5">Sensitive and modular amplicon sequencing of Plasmodium falciparum diversity and resistance for research and public health | Scientific Reports</a></li>
+<li>Protocol: <a href="https://www.protocols.io/view/cost-effective-targeted-nanopore-sequencing-of-p-f-yxmvm25m6g3p/v2">Cost-effective targeted nanopore sequencing of P. falciparum malaria V.2</a></li>
+</ul></li>
+</ul></li>
+<li><p>TERRA</p>
+<ul>
+<li><a href="https://www.broadinstitute.org/news/qa-how-terra-became-backbone-public-health-pathogen-surveillance">Q&amp;A: How Terra became a backbone of public health pathogen surveillance | Broad Institute</a></li>
+</ul></li>
+</ul>
+<section id="protocols" class="level2">
+<h2 class="anchored" data-anchor-id="protocols">Protocols</h2>
+<p><strong>Coming Soon</strong></p>
+</section>
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<p><strong>Coming Soon</strong></p>
+</section>
 <section id="recommended-reading" class="level2">
 <h2 class="anchored" data-anchor-id="recommended-reading">Recommended Reading</h2>
+<p><strong>Coming Soon</strong></p>
 <section id="textbooks" class="level3">
 <h3 class="anchored" data-anchor-id="textbooks">Textbooks</h3>
-<ul>
-<li><strong>Nowak, M.A.</strong> <em>Evolutionary Dynamics.</em> Harvard University Press, 2006.</li>
-<li><strong>Rice, S.H.</strong> <em>Evolutionary Theory: Mathematical and Conceptual Foundations.</em> Sinauer Associates, 2004.</li>
-<li><strong>Hofbauer, J. &amp; Sigmund, K.</strong> <em>Evolutionary Games and Population Dynamics.</em> Cambridge University Press, 1998.</li>
-<li><strong>Ewens, W.J.</strong> <em>Mathematical Population Genetics.</em> Springer, 2004.</li>
-</ul>
+<p><strong>Coming Soon</strong></p>
 </section>
 <section id="review-articles" class="level3">
 <h3 class="anchored" data-anchor-id="review-articles">Review Articles</h3>
-<ul>
-<li>Hamilton, W.D. (1964). The genetical evolution of social behaviour. <em>Journal of Theoretical Biology</em>, 7(1), 1–16.</li>
-<li>Price, G.R. (1970). Selection and covariance. <em>Nature</em>, 227, 520–521.</li>
-<li>Maynard Smith, J. &amp; Szathmáry, E. (1995). <em>The Major Transitions in Evolution.</em> Freeman.</li>
-</ul>
+<p><strong>Coming Soon</strong></p>
 <hr>
 </section>
 </section>
@@ -257,13 +294,10 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://r4ds.hadley.nz">R for Data Science</a> — data analysis and visualization in R</li>
 </ul>
 <hr>
-</section>
-</section>
-<section id="funding-acknowledgements" class="level2">
-<h2 class="anchored" data-anchor-id="funding-acknowledgements">Funding &amp; Acknowledgements</h2>
-<p>We gratefully acknowledge support from [Funding Agencies / Grants]. The views expressed on this site are those of the lab and do not necessarily reflect the position of any funding agency.</p>
 
 
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->

@@ -11,14 +11,14 @@
     "href": "resources.html#lab-code-software",
     "title": "Resources",
     "section": "Lab Code & Software",
-    "text": "Lab Code & Software\nAll lab software is hosted in the Pichugin-Lab GitHub organization. Individual repositories will be linked here as they are released.\n\n\n\n\n\n\n\n\nRepository\nDescription\nLanguage\n\n\n\n\n(coming soon)\nMultilevel selection simulation framework\nPython / Julia\n\n\n(coming soon)\nEco-evolutionary ODE toolkit\nR / Python"
+    "text": "Lab Code & Software\nAll lab software is hosted in the Pichugin-Lab GitHub organization. Individual repositories will be linked here as they are released.\n\n\n\nRepository\nDescription\nLanguage\nTutorial\nWebsite\n\n\n\n\nP. falciparum microsattelite analysis\nUtilizing Anderson et al., 1999\nR/Python\nComing Soon\n\n\n\nP. falciparum antigen sequencing\n\nR / Python\nComing Soon\n\n\n\nP. falciparum Nextstrain\npfcsp and pfama1 are currently supported\nPython\nComing Soon\ncsp-full (Login Required)"
   },
   {
     "objectID": "resources.html#recommended-reading",
     "href": "resources.html#recommended-reading",
     "title": "Resources",
     "section": "Recommended Reading",
-    "text": "Recommended Reading\n\nTextbooks\n\nNowak, M.A. Evolutionary Dynamics. Harvard University Press, 2006.\nRice, S.H. Evolutionary Theory: Mathematical and Conceptual Foundations. Sinauer Associates, 2004.\nHofbauer, J. & Sigmund, K. Evolutionary Games and Population Dynamics. Cambridge University Press, 1998.\nEwens, W.J. Mathematical Population Genetics. Springer, 2004.\n\n\n\nReview Articles\n\nHamilton, W.D. (1964). The genetical evolution of social behaviour. Journal of Theoretical Biology, 7(1), 1–16.\nPrice, G.R. (1970). Selection and covariance. Nature, 227, 520–521.\nMaynard Smith, J. & Szathmáry, E. (1995). The Major Transitions in Evolution. Freeman."
+    "text": "Recommended Reading\nComing Soon\n\nTextbooks\nComing Soon\n\n\nReview Articles\nComing Soon"
   },
   {
     "objectID": "resources.html#online-tools-databases",
@@ -42,116 +42,11 @@
     "text": "Funding & Acknowledgements\nWe gratefully acknowledge support from [Funding Agencies / Grants]. The views expressed on this site are those of the lab and do not necessarily reflect the position of any funding agency."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pichugin Lab",
-    "section": "",
-    "text": "Understanding evolutionary dynamics through mathematical modeling and computation\nLearn More About Us View Publications"
-  },
-  {
-    "objectID": "index.html#research-overview",
-    "href": "index.html#research-overview",
-    "title": "Pichugin Lab",
-    "section": "Research Overview",
-    "text": "Research Overview\nOur laboratory investigates the evolutionary and ecological processes that shape biological diversity. We combine theoretical frameworks with computational approaches to develop models that explain population dynamics, cooperation, and the emergence of complex traits.\n\n\nEvolutionary Theory\nWe develop and analyze mathematical models of natural selection, genetic drift, and eco-evolutionary dynamics.\n\n\nComputational Modeling\nWe build simulation frameworks to explore the emergence of cooperation, altruism, and social behavior.\n\n\nOpen Science\nWe make our code, data, and analyses publicly available to support reproducible research. Explore our GitHub organization."
-  },
-  {
-    "objectID": "index.html#latest-news",
-    "href": "index.html#latest-news",
-    "title": "Pichugin Lab",
-    "section": "Latest News",
-    "text": "Latest News\n\n2025 — New preprint on multilevel selection dynamics posted to bioRxiv.\n2024 — Lab GitHub organization launched. Repositories for ongoing projects are now publicly accessible.\n2024 — New resources and tutorial materials added to the Resources page."
-  },
-  {
-    "objectID": "index.html#join-the-lab",
-    "href": "index.html#join-the-lab",
-    "title": "Pichugin Lab",
-    "section": "Join the Lab",
-    "text": "Join the Lab\nWe welcome motivated students and postdocs interested in evolutionary theory, mathematical biology, and computational modeling. See the About page for contact information and open positions."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Below are the active and completed research projects from the Pichugin Lab. Code repositories for each project are hosted in our GitHub organization."
-  },
-  {
-    "objectID": "projects.html#active-projects",
-    "href": "projects.html#active-projects",
-    "title": "Projects",
-    "section": "Active Projects",
-    "text": "Active Projects\n\nMultilevel Selection Dynamics\nWe are developing a general mathematical framework for multilevel selection that accounts for group formation, reproduction, and dissolution. The goal is to identify conditions under which group-level selection can drive the evolution of cooperation and novel collective-level traits.\n\n\nStatus: Active\nCollaborators: [Names]\n\n\n Repository  Preprint\n\n\n\n\n\nEco-Evolutionary Feedback Models\nThis project studies how ecological interactions (competition, predation, mutualism) feed back into evolutionary dynamics and vice versa. We build and analyse ordinary and stochastic differential equation models to understand long-term evolutionary trajectories.\n\n\nStatus: Active\nCollaborators: [Names]\n\n\n Repository"
-  },
-  {
-    "objectID": "projects.html#completed-projects",
-    "href": "projects.html#completed-projects",
-    "title": "Projects",
-    "section": "Completed Projects",
-    "text": "Completed Projects\n\nEvolution of Life-History Traits\nA theoretical investigation of the trade-offs between growth rate, fecundity, and survival that shape life-history strategies across biological taxa. Published results are available via the Publications page.\n\n\nStatus: Completed\n\n\n Publication  Repository"
-  },
-  {
-    "objectID": "projects.html#linking-external-repositories",
-    "href": "projects.html#linking-external-repositories",
-    "title": "Projects",
-    "section": "Linking External Repositories",
-    "text": "Linking External Repositories\nThis lab website is designed to link directly to other repositories within the Pichugin-Lab GitHub organization. As new repositories are made public they will be featured here with descriptions, documentation links, and usage examples."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "A. Pichugin, PhD\nDepartment of [Your Department], [Your Institution]\nI am a researcher studying evolutionary dynamics, cooperation, and the mathematical principles underlying biological complexity. My work draws on tools from dynamical systems, probability theory, and computer simulation to address questions about how life evolves and organizes at multiple scales."
-  },
-  {
-    "objectID": "about.html#principal-investigator",
-    "href": "about.html#principal-investigator",
-    "title": "About",
-    "section": "",
-    "text": "A. Pichugin, PhD\nDepartment of [Your Department], [Your Institution]\nI am a researcher studying evolutionary dynamics, cooperation, and the mathematical principles underlying biological complexity. My work draws on tools from dynamical systems, probability theory, and computer simulation to address questions about how life evolves and organizes at multiple scales."
-  },
-  {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nMathematical modeling of evolutionary processes\nMultilevel selection and major evolutionary transitions\nCooperation and the evolution of social behavior\nPopulation genetics and eco-evolutionary dynamics\nComputational approaches to theoretical biology"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\n\n\n\nDegree\nInstitution\nYear\n\n\n\n\nPhD in [Field]\n[Institution]\n[Year]\n\n\nMSc in [Field]\n[Institution]\n[Year]\n\n\nBSc in [Field]\n[Institution]\n[Year]"
-  },
-  {
-    "objectID": "about.html#current-lab-members",
-    "href": "about.html#current-lab-members",
-    "title": "About",
-    "section": "Current Lab Members",
-    "text": "Current Lab Members\nWe are building an interdisciplinary team. Prospective members are encouraged to reach out.\n\nGraduate Students\nPositions available — see below\n\n\nPostdoctoral Researchers\nPositions available — see below"
-  },
-  {
-    "objectID": "about.html#open-positions",
-    "href": "about.html#open-positions",
-    "title": "About",
-    "section": "Open Positions",
-    "text": "Open Positions\nWe are currently recruiting:\n\nPhD students with backgrounds in mathematics, physics, computer science, or biology.\nPostdoctoral researchers with experience in evolutionary theory or computational biology.\n\nTo apply, please send a CV, a brief statement of research interests, and contact information for two references to the email address below."
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\n\n\nEmail: your.email@institution.edu\nGitHub: Pichugin-Lab\nOffice: [Building, Room, Address]"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "A list of publications from the Pichugin Lab. For the most up-to-date list, see Google Scholar or ORCID."
+    "text": "Coming Soon\nA list of publications from the Pichugin Lab. For the most up-to-date list, see Google Scholar or ORCID."
   },
   {
     "objectID": "publications.html#preprints",
@@ -180,5 +75,117 @@
     "title": "Publications",
     "section": "Theses",
     "text": "Theses\n\n[Title of PhD Thesis]\nA. Pichugin\n[Institution] (Year)\n Link"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are the active and completed research projects from the Pichugin Lab. Code repositories for each project are hosted in our GitHub organization."
+  },
+  {
+    "objectID": "projects.html#active-projects",
+    "href": "projects.html#active-projects",
+    "title": "Projects",
+    "section": "Active Projects",
+    "text": "Active Projects\n\nAntigenic Surveillance of Plasmodium falciparum parasites\n\n\nStatus: Active\nCollaborators: [Names]\n\n\n Repository  Preprint"
+  },
+  {
+    "objectID": "projects.html#completed-projects",
+    "href": "projects.html#completed-projects",
+    "title": "Projects",
+    "section": "Completed Projects",
+    "text": "Completed Projects\n\nEvolution of Life-History Traits\nA theoretical investigation of the trade-offs between growth rate, fecundity, and survival that shape life-history strategies across biological taxa. Published results are available via the Publications page.\n\n\nStatus: Completed\n\n\n Publication  Repository"
+  },
+  {
+    "objectID": "projects.html#linking-external-repositories",
+    "href": "projects.html#linking-external-repositories",
+    "title": "Projects",
+    "section": "Linking External Repositories",
+    "text": "Linking External Repositories\nThis lab website is designed to link directly to other repositories within the Pichugin-Lab GitHub organization. As new repositories are made public they will be featured here with descriptions, documentation links, and usage examples."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pichugin Lab",
+    "section": "",
+    "text": "Understanding the evolutionary dynamics of Malaria\nView Publications Lab Resources"
+  },
+  {
+    "objectID": "index.html#research-overview",
+    "href": "index.html#research-overview",
+    "title": "Pichugin Lab",
+    "section": "Research Overview",
+    "text": "Research Overview\nOur laboratory investigates the evolutionary and ecological processes that shape Malaria antigenic and genomic diversity.\n\n\nPlasmodium falciparum\nWe develop and analyze mathematical models of natural selection, genetic drift, and eco-evolutionary dynamics.\n\n\nPhylogenetics\nWe build simulation frameworks to explore the emergence of cooperation, altruism, and social behavior.\n\n\nOpen Science\nWe make our code, data, and analyses publicly available to support reproducible research. Explore our GitHub organization."
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Pichugin Lab",
+    "section": "Latest News",
+    "text": "Latest News\n\n2025 — New preprint on multilevel selection dynamics posted to bioRxiv.\n2024 — Lab GitHub organization launched. Repositories for ongoing projects are now publicly accessible.\n2024 — New resources and tutorial materials added to the Resources page."
+  },
+  {
+    "objectID": "index.html#join-the-lab",
+    "href": "index.html#join-the-lab",
+    "title": "Pichugin Lab",
+    "section": "Join the Lab",
+    "text": "Join the Lab\nWe welcome motivated students and postdocs interested in evolutionary theory, mathematical biology, and computational modeling. See the About page for contact information and open positions."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Dr. Alexander Pichugin, MD, PhD\nORCID: https://orcid.org/0000-0002-2577-7284 SciProfiles: https://sciprofiles.com/profile/author/dmF6RThpK2xYdHpQZDkzQ2RYZlNtNUxPdDlJRlB0VDRIcW1naXFLSU5YQXNFZWl6RXFjeXZndTJ3RE5QS1lacQ==\nDepartment of [Your Department], [Your Institution]\nI am a researcher studying evolutionary dynamics, cooperation, and the mathematical principles underlying biological complexity. My work draws on tools from dynamical systems, probability theory, and computer simulation to address questions about how life evolves and organizes at multiple scales."
+  },
+  {
+    "objectID": "about.html#principal-investigator",
+    "href": "about.html#principal-investigator",
+    "title": "About",
+    "section": "",
+    "text": "Dr. Alexander Pichugin, MD, PhD\nORCID: https://orcid.org/0000-0002-2577-7284 SciProfiles: https://sciprofiles.com/profile/author/dmF6RThpK2xYdHpQZDkzQ2RYZlNtNUxPdDlJRlB0VDRIcW1naXFLSU5YQXNFZWl6RXFjeXZndTJ3RE5QS1lacQ==\nDepartment of [Your Department], [Your Institution]\nI am a researcher studying evolutionary dynamics, cooperation, and the mathematical principles underlying biological complexity. My work draws on tools from dynamical systems, probability theory, and computer simulation to address questions about how life evolves and organizes at multiple scales."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nMathematical modeling of evolutionary processes\nMultilevel selection and major evolutionary transitions\nCooperation and the evolution of social behavior\nPopulation genetics and eco-evolutionary dynamics\nComputational approaches to theoretical biology"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\n\n\nDegree\nInstitution\nYear\n\n\n\n\nPhD in [Field]\n[Institution]\n[Year]\n\n\nMSc in [Field]\n[Institution]\n[Year]\n\n\nBSc in [Field]\n[Institution]\n[Year]"
+  },
+  {
+    "objectID": "about.html#current-lab-members",
+    "href": "about.html#current-lab-members",
+    "title": "About",
+    "section": "Current Lab Members",
+    "text": "Current Lab Members\n\nFormer Lab Members"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\n\nEmail: your.email@institution.edu\nGitHub: Pichugin-Lab"
+  },
+  {
+    "objectID": "resources.html#protocols",
+    "href": "resources.html#protocols",
+    "title": "Resources",
+    "section": "Protocols",
+    "text": "Protocols\nComing Soon"
+  },
+  {
+    "objectID": "resources.html#publications",
+    "href": "resources.html#publications",
+    "title": "Resources",
+    "section": "Publications",
+    "text": "Publications\nComing Soon"
   }
 ]

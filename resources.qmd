@@ -10,27 +10,51 @@ A curated collection of tools, tutorials, datasets, and links useful for researc
 
 All lab software is hosted in the [Pichugin-Lab GitHub organization](https://github.com/Pichugin-Lab). Individual repositories will be linked here as they are released.
 
-| Repository | Description | Language |
-|------------|-------------|----------|
-| *(coming soon)* | Multilevel selection simulation framework | Python / Julia |
-| *(coming soon)* | Eco-evolutionary ODE toolkit | R / Python |
+| Repository | Description | Language | Tutorial |  Website |
+|------------|-------------|----------|----------|----------|
+| [P. falciparum microsattelite analysis](https://github.com/Pichugin-Lab/pf_microsattelite) | Utilizing [Anderson et al., 1999](https://doi.org/10.1017/s0031182099004552) | R/Python | **Coming Soon** | |
+| [P. falciparum antigen sequencing](https://github.com/Pichugin-Lab/pf_targeted_sequencing) |  | R / Python | **Coming Soon** | |
+| [P. falciparum Nextstrain](https://github.com/Pichugin-Lab/chminextstrain) | pfcsp and pfama1 are currently supported | Python | **Coming Soon** | [csp-full](https://nextstrain.org/groups/PichuginLab-Private/sydney/chmi/csp-full) (Login Required) |
 
 ---
 
+# External Resources
+
+- [MALGEN7](https://apps.malariagen.net/apps/pf7/) 
+
+- [NOMADS Community · GitHub](https://github.com/nomads-community)
+	- [Nomadic](https://jasonahendry.github.io/nomadic/)
+	- [GitHub - JasonAHendry/multiply: Multiplex PCR design, in silico · GitHub](https://github.com/JasonAHendry/multiply)
+	- Bioinformatic trainings [GitHub - nomads-community/bioinformatics: Bioinformatic 
+	- Resources · GitHub](https://github.com/nomads-community/bioinformatics)
+	- [broadinstitute/malaria - illumina amplicon sequencing pipeline](https://github.com/broadinstitute/malaria)
+		- Illumina Amplicon Workspace
+	- [mad4hatter - nanopore amplicon sequencing pipeline](https://github.com/EPPIcenter/mad4hatter)
+		- Publication: [Sensitive and modular amplicon sequencing of Plasmodium falciparum diversity and resistance for research and public health \| Scientific Reports](https://www.nature.com/articles/s41598-025-94716-5)
+		- Protocol:  [Cost-effective targeted nanopore sequencing of P. falciparum malaria V.2](https://www.protocols.io/view/cost-effective-targeted-nanopore-sequencing-of-p-f-yxmvm25m6g3p/v2)
+
+- TERRA 
+	- [Q&A: How Terra became a backbone of public health pathogen surveillance \| Broad Institute](https://www.broadinstitute.org/news/qa-how-terra-became-backbone-public-health-pathogen-surveillance)
+
+## Protocols
+
+**Coming Soon**
+
+## Publications 
+
+**Coming Soon**
+
 ## Recommended Reading
+
+**Coming Soon**
 
 ### Textbooks
 
-- **Nowak, M.A.** *Evolutionary Dynamics.* Harvard University Press, 2006.
-- **Rice, S.H.** *Evolutionary Theory: Mathematical and Conceptual Foundations.* Sinauer Associates, 2004.
-- **Hofbauer, J. & Sigmund, K.** *Evolutionary Games and Population Dynamics.* Cambridge University Press, 1998.
-- **Ewens, W.J.** *Mathematical Population Genetics.* Springer, 2004.
+**Coming Soon**
 
 ### Review Articles
 
-- Hamilton, W.D. (1964). The genetical evolution of social behaviour. *Journal of Theoretical Biology*, 7(1), 1–16.
-- Price, G.R. (1970). Selection and covariance. *Nature*, 227, 520–521.
-- Maynard Smith, J. & Szathmáry, E. (1995). *The Major Transitions in Evolution.* Freeman.
+**Coming Soon**
 
 ---
 
@@ -61,7 +85,3 @@ This website is built with [Quarto](https://quarto.org). Quarto is an open-sourc
 - [R for Data Science](https://r4ds.hadley.nz) — data analysis and visualization in R
 
 ---
-
-## Funding & Acknowledgements
-
-We gratefully acknowledge support from [Funding Agencies / Grants]. The views expressed on this site are those of the lab and do not necessarily reflect the position of any funding agency.

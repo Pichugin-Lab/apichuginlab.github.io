@@ -2,6 +2,8 @@
 title: "Publications"
 ---
 
+**Coming Soon**
+
 A list of publications from the Pichugin Lab. For the most up-to-date list, see [Google Scholar](https://scholar.google.com) or [ORCID](https://orcid.org).
 
 ---
@@ -14,8 +16,6 @@ A. Pichugin, [Co-authors]
 *bioRxiv* (2025)  
 [{{< fa file-pdf >}} PDF](#){.btn .btn-sm .btn-outline-danger} [{{< fa brands github >}} Code](#){.btn .btn-sm .btn-outline-dark}
 :::
-
----
 
 ## Journal Articles
 
@@ -35,22 +35,3 @@ A. Pichugin, [Co-authors]
 
 ---
 
-## Book Chapters
-
-::: {.publication-entry}
-**[Title of Chapter]**  
-A. Pichugin, [Co-authors]  
-In *Book Title*, eds. [Editors]. Publisher, City (Year)  
-[{{< fa link >}} DOI](#){.btn .btn-sm .btn-outline-primary}
-:::
-
----
-
-## Theses
-
-::: {.publication-entry}
-**[Title of PhD Thesis]**  
-A. Pichugin  
-*[Institution]* (Year)  
-[{{< fa link >}} Link](#){.btn .btn-sm .btn-outline-primary}
-:::

@@ -4,13 +4,11 @@ title: "Projects"
 
 Below are the active and completed research projects from the Pichugin Lab. Code repositories for each project are hosted in our [GitHub organization](https://github.com/Pichugin-Lab).
 
----
+
 
 ## Active Projects
 
-### Multilevel Selection Dynamics
-
-We are developing a general mathematical framework for multilevel selection that accounts for group formation, reproduction, and dissolution. The goal is to identify conditions under which group-level selection can drive the evolution of cooperation and novel collective-level traits.
+### Antigenic Surveillance of Plasmodium falciparum parasites
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6}
@@ -25,39 +23,7 @@ We are developing a general mathematical framework for multilevel selection that
 
 ---
 
-### Eco-Evolutionary Feedback Models
 
-This project studies how ecological interactions (competition, predation, mutualism) feed back into evolutionary dynamics and vice versa. We build and analyse ordinary and stochastic differential equation models to understand long-term evolutionary trajectories.
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-6}
-**Status:** Active  
-**Collaborators:** [Names]  
-:::
-::: {.g-col-12 .g-col-md-6}
-[{{< fa brands github >}} Repository](https://github.com/Pichugin-Lab){.btn .btn-sm .btn-outline-dark}
-:::
-:::
-
----
-
-## Completed Projects
-
-### Evolution of Life-History Traits
-
-A theoretical investigation of the trade-offs between growth rate, fecundity, and survival that shape life-history strategies across biological taxa. Published results are available via the [Publications](publications.qmd) page.
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-6}
-**Status:** Completed  
-:::
-::: {.g-col-12 .g-col-md-6}
-[{{< fa link >}} Publication](#){.btn .btn-sm .btn-outline-primary}
-[{{< fa brands github >}} Repository](https://github.com/Pichugin-Lab){.btn .btn-sm .btn-outline-dark}
-:::
-:::
-
----
 
 ## Linking External Repositories
 

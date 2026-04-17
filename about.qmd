@@ -4,7 +4,10 @@ title: "About"
 
 ## Principal Investigator
 
-**A. Pichugin, PhD**
+**Dr. Alexander Pichugin, MD, PhD**
+
+ORCID: https://orcid.org/0000-0002-2577-7284 
+SciProfiles: https://sciprofiles.com/profile/author/dmF6RThpK2xYdHpQZDkzQ2RYZlNtNUxPdDlJRlB0VDRIcW1naXFLSU5YQXNFZWl6RXFjeXZndTJ3RE5QS1lacQ==
 
 *Department of [Your Department], [Your Institution]*
 
@@ -34,28 +37,10 @@ I am a researcher studying evolutionary dynamics, cooperation, and the mathemati
 
 ## Current Lab Members
 
-We are building an interdisciplinary team. Prospective members are encouraged to reach out.
-
-### Graduate Students
-
-*Positions available — see below*
-
-### Postdoctoral Researchers
-
-*Positions available — see below*
+### Former Lab Members
 
 ---
 
-## Open Positions
-
-We are currently recruiting:
-
-- **PhD students** with backgrounds in mathematics, physics, computer science, or biology.
-- **Postdoctoral researchers** with experience in evolutionary theory or computational biology.
-
-To apply, please send a CV, a brief statement of research interests, and contact information for two references to the email address below.
-
----
 
 ## Contact
 
@@ -66,7 +51,6 @@ To apply, please send a CV, a brief statement of research interests, and contact
 
 **GitHub:** [Pichugin-Lab](https://github.com/Pichugin-Lab)
 
-**Office:** [Building, Room, Address]
 :::
 
 :::
